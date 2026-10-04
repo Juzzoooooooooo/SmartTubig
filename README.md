@@ -58,7 +58,7 @@ The application intentionally falls back to demo data when these variables are a
 
 ## ESP32 firmware
 
-The [`firmware/`](firmware/README.md) folder has four independent ESP32 projects: ultrasonic level, pH, TDS, and turbidity. Each can be built and flashed separately to read its sensor over serial. The current dashboard remains a demo until a device API is implemented.
+The [`firmware/`](firmware/README.md) folder has four independent Arduino `.ino` sketches: ultrasonic level, pH, TDS, and turbidity. Each can be uploaded separately to read its sensor over serial. The current dashboard remains a demo until a device API is implemented.
 
 ## Current prototype
 

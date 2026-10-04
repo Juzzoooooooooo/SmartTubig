@@ -45,4 +45,3 @@ next-env.d.ts
 /outputs/
 /work/
 *.tar.gz
-/firmware/**/.pio/
